@@ -1,0 +1,17 @@
+# PlatformIO build & environment artifacts
+.pio/
+.cache/
+
+# Compilation database (contains absolute host paths / username)
+compile_commands.json
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Editor & OS metadata
+.vscode/.browse*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.DS_Store
+Thumbs.db
